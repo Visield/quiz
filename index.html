@@ -162,7 +162,7 @@ let user = buildUserVector();
 
 let scores = data.map(c=>{
 let sim = cosineSimilarity(user,c.traits);
-return {name:c.name,score:100};
+return {name:c.name,score:sim};
 });
 
 scores.sort((a,b)=>b.score-a.score);
