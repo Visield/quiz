@@ -613,5 +613,20 @@
       "confidence": 8,
       "impulsiveness": 7
     }
+  },
+  {
+    "name": "Steven",
+    "traits": {
+      "expressiveHumor": 10,
+      "emotionalSensitivity": 2,
+      "externalWarmth": 5,
+      "socialEnergy": 10,
+      "assertiveness": 7.5,
+      "emotionalStability": 8,
+      "cynicism": 3,
+      "focusDiscipline": 1,
+      "confidence": 1,
+      "impulsiveness": 9
+    }
   }
 ]
