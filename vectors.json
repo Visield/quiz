@@ -615,18 +615,18 @@
     }
   },
   {
-    "name": "Steven",
+    "name": "Todd",
     "traits": {
-      "expressiveHumor": 10,
-      "emotionalSensitivity": 2,
+      "expressiveHumor": 5,
+      "emotionalSensitivity": 5,
       "externalWarmth": 5,
-      "socialEnergy": 10,
-      "assertiveness": 7.5,
-      "emotionalStability": 8,
-      "cynicism": 3,
-      "focusDiscipline": 1,
-      "confidence": 1,
-      "impulsiveness": 9
+      "socialEnergy": 5,
+      "assertiveness": 5,
+      "emotionalStability": 5,
+      "cynicism": 5,
+      "focusDiscipline": 5,
+      "confidence": 5,
+      "impulsiveness": 5
     }
   }
 ]
